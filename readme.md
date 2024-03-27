@@ -1,6 +1,6 @@
 
 
-## Demo Project for larael crud
+## Laravel crud
 
 ## API Development Libraries
 
